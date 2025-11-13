@@ -1,0 +1,301 @@
+﻿location_id,location_name,district,latitude,longitude,location_type,incident_count,avg_response_time_min,is_hotspot
+LOC-00001,U-Bahn Waschen,Unterliederbach,50.098445,8.588311,U-Bahn Station,44,28,False
+LOC-00002,Weinhage GmbH & Co. KGaA Parkplatz,Gallus,50.085354,8.750523,Öffentlicher Platz,34,42,True
+LOC-00003,Krystyna-Wulff-Ring / Roberto-Pruschke-Allee,Rödelheim,50.072596,8.609616,Straße,27,39,True
+LOC-00004,Mosemann KG Parkplatz,Seckbach,50.03351,8.738913,Parkplatz,34,26,True
+LOC-00005,U-Bahn Geschichte,Eckenheim,50.05797,8.739605,Gewerbegebiet,3,36,True
+LOC-00006,Römer,Nordend-West,50.169996,8.6245,U-Bahn Station,11,28,False
+LOC-00007,Ivana-Geisler-Weg,Altstadt,50.04773,8.756688,Wohngebiet,31,37,True
+LOC-00008,Dobesstraße / Reinhardtgasse,Nordend-Ost,50.049949,8.529315,Kreuzung,8,39,True
+LOC-00009,Hauptbahnhof,Westend-Süd,50.188344,8.731451,U-Bahn Station,42,37,True
+LOC-00010,Römer,Seckbach,50.103561,8.563743,Gewerbegebiet,34,29,False
+LOC-00011,Baum Kambs GbR Parkplatz,Westend-Süd,50.142603,8.652012,Wohngebiet,23,38,True
+LOC-00012,Römer,Altstadt,50.063268,8.780076,Öffentlicher Platz,41,11,False
+LOC-00013,Seelow,Hausen,50.157751,8.743544,Öffentlicher Platz,23,43,False
+LOC-00014,Römer,Westend-Nord,50.096748,8.677218,Parkplatz,46,16,False
+LOC-00015,Hauptbahnhof,Nieder-Erlenbach,50.163321,8.634143,Parkplatz,46,40,True
+LOC-00016,Scholzstr.,Niederursel,50.135955,8.753714,Parkplatz,2,33,True
+LOC-00017,Römer,Höchst,50.164812,8.48482,Öffentlicher Platz,15,42,True
+LOC-00018,Königs Wusterhausen,Preungesheim,50.109152,8.485523,Park,25,22,False
+LOC-00019,Schmiedecke AG Parkplatz,Nieder-Eschbach,50.126714,8.689473,Öffentlicher Platz,13,7,False
+LOC-00020,U-Bahn Unter,Sachsenhausen-Nord,50.163582,8.525287,Wohngebiet,39,20,True
+LOC-00021,Agata-Weiß-Gasse,Höchst,50.154191,8.484853,Gewerbegebiet,20,22,True
+LOC-00022,Suhl,Bornheim,50.088313,8.538128,Kreuzung,43,18,False
+LOC-00023,Leyla-Weinhold-Ring / Heuserring,Bonames,50.092452,8.705473,Gewerbegebiet,12,40,True
+LOC-00024,U-Bahn Straße,Nieder-Erlenbach,50.047607,8.665127,Parkplatz,24,29,False
+LOC-00025,Lachmannplatz / Budigweg,Sindlingen,50.032138,8.66903,U-Bahn Station,24,23,True
+LOC-00026,Geiselstr. / Ronald-Schacht-Platz,Bonames,50.058636,8.482474,Kreuzung,5,19,True
+LOC-00027,Römer,Harheim,50.021899,8.485198,Gewerbegebiet,47,43,True
+LOC-00028,Hauptbahnhof,Rödelheim,50.03438,8.733783,Bahnhof,49,45,True
+LOC-00029,Gehringergasse / Anne-Marie-Tlustek-Ring,Eckenheim,50.060184,8.68949,Einkaufszentrum,8,17,False
+LOC-00030,Zeil,Gallus,50.170256,8.742458,Gewerbegebiet,2,33,True
+LOC-00031,Zeil,Eschersheim,50.16158,8.622891,Einkaufszentrum,8,41,True
+LOC-00032,Hauptbahnhof,Frankfurter Berg,50.166195,8.728289,Gewerbegebiet,1,23,True
+LOC-00033,Hauptbahnhof,Ostend,50.027922,8.629063,Gewerbegebiet,50,36,False
+LOC-00034,Pirmasens,Gallus,50.020343,8.638887,Öffentlicher Platz,36,9,False
+LOC-00035,Römer,Höchst,50.062151,8.571747,Parkplatz,30,27,False
+LOC-00036,Borken,Harheim,50.100366,8.619927,Öffentlicher Platz,11,9,False
+LOC-00037,Bersenbrück,Sachsenhausen-Nord,50.09651,8.538826,Einkaufszentrum,21,32,True
+LOC-00038,Francis-Seifert-Gasse,Ginnheim,50.096298,8.755138,U-Bahn Station,5,30,False
+LOC-00039,Hölzenbecherallee / Krausestr.,Eschersheim,50.07917,8.787681,Kreuzung,31,39,True
+LOC-00040,Römer,Westend-Süd,50.094144,8.543751,Parkplatz,8,24,True
+LOC-00041,Eberth AG & Co. OHG Parkplatz,Rödelheim,50.032954,8.516098,Park,9,14,False
+LOC-00042,Hauptbahnhof,Praunheim,50.038796,8.51861,Parkplatz,40,8,False
+LOC-00043,U-Bahn Kurz,Innenstadt,50.036731,8.793578,Parkplatz,50,26,True
+LOC-00044,Schwarzenberg,Sachsenhausen-Nord,50.135433,8.778397,Öffentlicher Platz,10,23,False
+LOC-00045,Angelica-Wulf-Allee,Eckenheim,50.063439,8.556541,Kreuzung,13,33,False
+LOC-00046,Gertzgasse,Preungesheim,50.12887,8.648745,U-Bahn Station,17,38,True
+LOC-00047,Wagner GmbH & Co. KG Parkplatz,Eckenheim,50.023175,8.625577,Parkplatz,37,21,False
+LOC-00048,Reuter Parkplatz,Gallus,50.125853,8.489261,Öffentlicher Platz,47,13,True
+LOC-00049,Hartmann Fritsch e.V. Parkplatz,Nieder-Erlenbach,50.077904,8.769523,Parkplatz,50,18,True
+LOC-00050,Zeil,Nordend-Ost,50.042374,8.487979,Einkaufszentrum,11,30,False
+LOC-00051,Adlerplatz,Sindlingen,50.078197,8.598801,Wohngebiet,29,13,True
+LOC-00052,Hauptbahnhof,Schwanheim,50.18553,8.545294,Straße,20,8,True
+LOC-00053,Hauptbahnhof,Riederwald,50.162896,8.526971,Öffentlicher Platz,1,8,True
+LOC-00054,Römer,Bonames,50.107407,8.525713,Öffentlicher Platz,25,19,True
+LOC-00055,Freital,Hausen,50.077532,8.709408,Park,3,19,False
+LOC-00056,Zeil,Altstadt,50.096152,8.514142,Öffentlicher Platz,14,17,False
+LOC-00057,U-Bahn Der,Preungesheim,50.169701,8.480833,Gewerbegebiet,37,45,True
+LOC-00058,Janina-Flantz-Gasse,Bornheim,50.156072,8.615759,Öffentlicher Platz,48,11,False
+LOC-00059,Döhnplatz / Attila-Dussen van-Weg,Innenstadt,50.153277,8.486736,U-Bahn Station,16,26,True
+LOC-00060,Losekann GmbH Parkplatz,Bornheim,50.171144,8.614446,Gewerbegebiet,27,27,True
+LOC-00061,Wulfstr. / Georgios-Wieloch-Ring,Nieder-Eschbach,50.193781,8.506104,Wohngebiet,47,31,False
+LOC-00062,U-Bahn Herr,Rödelheim,50.147263,8.627742,Bahnhof,6,38,True
+LOC-00063,Zeil,Kalbach-Riedberg,50.043664,8.504472,Einkaufszentrum,4,29,True
+LOC-00064,Zeil,Westend-Nord,50.073534,8.542164,Öffentlicher Platz,43,38,True
+LOC-00065,Gelnhausen,Nieder-Erlenbach,50.183397,8.642181,Einkaufszentrum,32,35,False
+LOC-00066,Holstengasse,Bergen-Enkheim,50.028257,8.481909,Öffentlicher Platz,13,15,True
+LOC-00067,Zeil,Bockenheim,50.185352,8.620599,U-Bahn Station,31,18,True
+LOC-00068,Scholtz Bolzmann GmbH Parkplatz,Harheim,50.084484,8.593598,U-Bahn Station,37,10,False
+LOC-00069,Misicher Lübs AG Parkplatz,Innenstadt,50.193988,8.49472,Gewerbegebiet,6,6,True
+LOC-00070,Zeil,Sindlingen,50.05738,8.782179,U-Bahn Station,35,7,True
+LOC-00071,Illertissen,Sindlingen,50.182931,8.547346,Gewerbegebiet,40,33,True
+LOC-00072,U-Bahn Zu,Fechenheim,50.027682,8.585709,U-Bahn Station,31,23,False
+LOC-00073,Rehau,Rödelheim,50.107285,8.64291,Parkplatz,24,35,False
+LOC-00074,Holzminden,Sachsenhausen-Nord,50.172896,8.547464,Öffentlicher Platz,17,11,False
+LOC-00075,Frankeallee / Hermighausenallee,Nordend-West,50.041457,8.542764,Gewerbegebiet,46,31,False
+LOC-00076,U-Bahn Oma,Schwanheim,50.048558,8.508998,U-Bahn Station,39,32,False
+LOC-00077,Bärer Stiftung & Co. KGaA Parkplatz,Bahnhofsviertel,50.105101,8.6203,Einkaufszentrum,32,43,False
+LOC-00078,Hauptbahnhof,Sachsenhausen-Nord,50.133736,8.537475,Wohngebiet,50,10,True
+LOC-00079,Römer,Ginnheim,50.086478,8.696635,Gewerbegebiet,2,8,True
+LOC-00080,U-Bahn Sofort,Nieder-Erlenbach,50.192493,8.481371,Straße,7,16,True
+LOC-00081,Hauptbahnhof,Frankfurter Berg,50.187455,8.65675,Bahnhof,26,18,True
+LOC-00082,U-Bahn Draußen,Nieder-Eschbach,50.025634,8.659643,Gewerbegebiet,22,42,True
+LOC-00083,Andres-Hamann-Straße,Gallus,50.158062,8.717666,Öffentlicher Platz,39,15,True
+LOC-00084,Dehmelallee,Höchst,50.056963,8.644951,Wohngebiet,17,7,True
+LOC-00085,Zeil,Griesheim,50.150003,8.501992,Gewerbegebiet,15,28,True
+LOC-00086,U-Bahn Ins,Seckbach,50.16213,8.792535,Gewerbegebiet,20,41,True
+LOC-00087,Meral-Graf-Straße / Krzysztof-Scheibe-Straße,Gallus,50.147167,8.701735,Öffentlicher Platz,42,8,True
+LOC-00088,Mitschke Stiftung & Co. KGaA Parkplatz,Kalbach-Riedberg,50.158272,8.573635,Gewerbegebiet,37,26,True
+LOC-00089,Hauptbahnhof,Rödelheim,50.114601,8.716918,Parkplatz,24,29,False
+LOC-00090,Hauptbahnhof,Höchst,50.017727,8.66041,Bahnhof,50,28,False
+LOC-00091,Klappgasse,Griesheim,50.090843,8.665905,Öffentlicher Platz,26,27,False
+LOC-00092,Römer,Nied,50.072198,8.512852,Bahnhof,16,24,False
+LOC-00093,Hauptbahnhof,Frankfurter Berg,50.121476,8.593538,Öffentlicher Platz,10,35,True
+LOC-00094,Zeil,Westend-Süd,50.050501,8.738839,Bahnhof,16,16,True
+LOC-00095,Briemerplatz / Cynthia-Wernecke-Allee,Sachsenhausen-Nord,50.131591,8.510688,Kreuzung,30,5,False
+LOC-00096,Zeil,Preungesheim,50.152189,8.627414,Straße,36,23,True
+LOC-00097,Fiebig Hesse AG Parkplatz,Praunheim,50.049037,8.623576,Kreuzung,42,33,False
+LOC-00098,Wolfratshausen,Harheim,50.120854,8.673214,Parkplatz,31,31,True
+LOC-00099,Scheibestr. / Berit-Riehl-Allee,Höchst,50.183051,8.697387,Bahnhof,10,8,False
+LOC-00100,Schwäbisch Hall,Eschersheim,50.060483,8.546096,Kreuzung,43,34,False
+LOC-00101,Schönland Parkplatz,Bonames,50.103341,8.792966,Kreuzung,3,40,True
+LOC-00102,Schwabmünchen,Harheim,50.092896,8.685473,Park,5,9,False
+LOC-00103,Hauptbahnhof,Schwanheim,50.172948,8.740435,Park,22,18,True
+LOC-00104,Burgdorf,Riederwald,50.083919,8.689764,Park,3,32,False
+LOC-00105,Römer,Preungesheim,50.169254,8.674039,Kreuzung,22,23,True
+LOC-00106,Schmiedecke Parkplatz,Unterliederbach,50.059544,8.775876,Parkplatz,19,34,False
+LOC-00107,Zeil,Fechenheim,50.058368,8.605283,Wohngebiet,44,5,True
+LOC-00108,Zeil,Nordend-Ost,50.115203,8.676005,Bahnhof,24,25,False
+LOC-00109,Blochgasse / Schülerring,Schwanheim,50.081808,8.49615,U-Bahn Station,21,42,False
+LOC-00110,Lorch Müller Stiftung & Co. KG Parkplatz,Nordend-West,50.107768,8.79582,U-Bahn Station,29,6,False
+LOC-00111,Gierschner GbR Parkplatz,Seckbach,50.129958,8.572543,U-Bahn Station,26,33,True
+LOC-00112,Römer,Eschersheim,50.053627,8.473114,Bahnhof,42,23,True
+LOC-00113,Hauptbahnhof,Niederursel,50.147142,8.725777,Gewerbegebiet,15,35,False
+LOC-00114,Bamberg,Bergen-Enkheim,50.192299,8.730739,Straße,45,40,False
+LOC-00115,Zeil,Kalbach-Riedberg,50.14879,8.777415,Wohngebiet,50,18,False
+LOC-00116,Nürtingen,Ostend,50.166207,8.504226,U-Bahn Station,29,30,True
+LOC-00117,Hauptbahnhof,Harheim,50.175531,8.798196,Straße,26,20,True
+LOC-00118,Fredy-Gude-Platz / Hörleallee,Nieder-Erlenbach,50.075584,8.796192,Einkaufszentrum,10,30,False
+LOC-00119,Toni-Mangold-Straße,Nieder-Eschbach,50.099294,8.632661,Öffentlicher Platz,46,32,False
+LOC-00120,Backnang,Bockenheim,50.083789,8.506147,Straße,41,45,True
+LOC-00121,Martin-Tschentscher-Weg / Jovan-Scholz-Platz,Riederwald,50.044959,8.698518,Öffentlicher Platz,39,7,True
+LOC-00122,Hauptbahnhof,Eschersheim,50.023962,8.784007,Straße,5,32,True
+LOC-00123,Hauptbahnhof,Altstadt,50.065814,8.569453,Straße,40,7,True
+LOC-00124,Hauptbahnhof,Sindlingen,50.099219,8.759758,Parkplatz,20,14,False
+LOC-00125,Zeil,Innenstadt,50.055405,8.587489,U-Bahn Station,42,39,True
+LOC-00126,Tröstring,Innenstadt,50.116067,8.737658,Einkaufszentrum,30,41,True
+LOC-00127,U-Bahn Wiese,Bergen-Enkheim,50.137703,8.565552,U-Bahn Station,22,26,False
+LOC-00128,Zeil,Altstadt,50.06058,8.528512,Wohngebiet,8,33,False
+LOC-00129,Kramergasse,Ostend,50.19178,8.623504,Kreuzung,37,5,True
+LOC-00130,Rudolstadt,Seckbach,50.166015,8.770101,Bahnhof,38,7,False
+LOC-00131,Hauptbahnhof,Nieder-Erlenbach,50.030689,8.59426,Wohngebiet,33,13,False
+LOC-00132,Weitzelstraße / Adalbert-Koch II-Ring,Bockenheim,50.106183,8.758996,Straße,49,16,False
+LOC-00133,Löwerweg / Löchelring,Westend-Nord,50.044474,8.736598,Bahnhof,7,32,False
+LOC-00134,Römer,Zeilsheim,50.021688,8.798974,Öffentlicher Platz,7,19,True
+LOC-00135,Römer,Bornheim,50.111814,8.501026,Gewerbegebiet,30,21,True
+LOC-00136,Nabburg,Ostend,50.108667,8.606858,Gewerbegebiet,3,16,True
+LOC-00137,Zeil,Harheim,50.190509,8.749892,Parkplatz,36,33,True
+LOC-00138,Konstanz,Innenstadt,50.113494,8.782822,Park,41,42,False
+LOC-00139,Römer,Bornheim,50.103437,8.769416,Gewerbegebiet,6,36,False
+LOC-00140,Zeil,Rödelheim,50.07838,8.48309,Gewerbegebiet,10,36,False
+LOC-00141,Hauptbahnhof,Gallus,50.143713,8.665592,Kreuzung,7,15,False
+LOC-00142,Zeil,Altstadt,50.128827,8.672579,Bahnhof,16,30,False
+LOC-00143,Belzig,Innenstadt,50.110447,8.656843,Bahnhof,8,11,False
+LOC-00144,Holsten GmbH & Co. KGaA Parkplatz,Rödelheim,50.055893,8.611004,Kreuzung,26,21,True
+LOC-00145,Zeil,Hausen,50.138758,8.512093,Bahnhof,26,10,True
+LOC-00146,Bremen,Eschersheim,50.136739,8.650754,Gewerbegebiet,34,30,True
+LOC-00147,Zeil,Hausen,50.095175,8.728796,Wohngebiet,6,15,False
+LOC-00148,Scheel Johann OHG mbH Parkplatz,Berkersheim,50.021369,8.629425,Wohngebiet,9,22,True
+LOC-00149,Zeil,Westend-Süd,50.100037,8.581579,Einkaufszentrum,46,9,False
+LOC-00150,U-Bahn Unter,Eschersheim,50.023335,8.790772,Kreuzung,38,27,False
+LOC-00151,Döbeln,Ginnheim,50.054929,8.472297,Einkaufszentrum,24,13,False
+LOC-00152,U-Bahn Selbst,Nordend-West,50.108654,8.570151,Kreuzung,20,28,True
+LOC-00153,U-Bahn Kind,Griesheim,50.190753,8.573591,Bahnhof,46,43,False
+LOC-00154,Hauptbahnhof,Altstadt,50.088371,8.797689,Kreuzung,15,38,False
+LOC-00155,Zeil,Praunheim,50.122996,8.777755,Einkaufszentrum,34,23,True
+LOC-00156,Römer,Bornheim,50.141324,8.713393,Parkplatz,35,15,False
+LOC-00157,U-Bahn Alt,Sachsenhausen-Nord,50.107541,8.568107,Öffentlicher Platz,27,15,True
+LOC-00158,Römer,Nordend-West,50.071401,8.67662,Kreuzung,49,22,True
+LOC-00159,Hauptbahnhof,Westend-Süd,50.082716,8.709898,Straße,49,5,False
+LOC-00160,Damian-Juncken-Gasse / Hamannallee,Nieder-Eschbach,50.100305,8.565385,Gewerbegebiet,5,14,True
+LOC-00161,Beckmannstraße / Beyerallee,Nordend-Ost,50.163758,8.794483,Einkaufszentrum,44,14,True
+LOC-00162,Römer,Bonames,50.171718,8.48739,Einkaufszentrum,18,12,True
+LOC-00163,Backnang,Altstadt,50.132326,8.713717,Gewerbegebiet,31,7,False
+LOC-00164,Stanislaw-Bien-Weg,Eckenheim,50.125092,8.528943,Einkaufszentrum,5,15,True
+LOC-00165,Neustadt am Rübenberge,Preungesheim,50.122401,8.680427,Parkplatz,24,21,False
+LOC-00166,U-Bahn Stark,Bonames,50.135869,8.616485,Gewerbegebiet,38,23,False
+LOC-00167,Irene-Harloff-Allee / Catrin-Hövel-Ring,Bornheim,50.096809,8.690389,Kreuzung,9,6,False
+LOC-00168,Römer,Altstadt,50.127981,8.590648,Gewerbegebiet,37,5,False
+LOC-00169,U-Bahn Fragen,Altstadt,50.021925,8.674219,U-Bahn Station,41,39,False
+LOC-00170,Hauptbahnhof,Praunheim,50.09513,8.603349,Kreuzung,21,11,True
+LOC-00171,Austermühle AG & Co. KG Parkplatz,Dornbusch,50.186212,8.734474,Straße,13,32,True
+LOC-00172,Käster Wende KG Parkplatz,Sindlingen,50.037216,8.533194,Straße,39,11,False
+LOC-00173,Hauptbahnhof,Altstadt,50.091679,8.525951,Parkplatz,45,30,True
+LOC-00174,Zeil,Harheim,50.188588,8.699128,Wohngebiet,30,42,False
+LOC-00175,Inka-Weitzel-Weg / Hans-Albert-Graf-Straße,Bahnhofsviertel,50.076372,8.660342,Straße,26,13,True
+LOC-00176,Nürtingen,Bahnhofsviertel,50.091287,8.762109,Wohngebiet,13,14,True
+LOC-00177,Weiß Parkplatz,Preungesheim,50.112729,8.653583,Straße,36,17,False
+LOC-00178,Ines-Binner-Ring / Woldemar-Reinhardt-Allee,Nied,50.020914,8.734024,Straße,20,33,False
+LOC-00179,Magarete-Pechel-Ring / Jockelallee,Berkersheim,50.066651,8.475986,Straße,25,6,True
+LOC-00180,Hein Parkplatz,Praunheim,50.040471,8.502021,Bahnhof,13,19,False
+LOC-00181,Römer,Höchst,50.188959,8.748464,Wohngebiet,33,41,False
+LOC-00182,U-Bahn Papa,Praunheim,50.183308,8.526151,Park,3,33,True
+LOC-00183,Textor AG Parkplatz,Eckenheim,50.169333,8.564369,Gewerbegebiet,39,42,False
+LOC-00184,Zeil,Bornheim,50.120234,8.657382,Straße,22,26,True
+LOC-00185,Wilmsen AG Parkplatz,Rödelheim,50.0831,8.517927,Einkaufszentrum,1,38,True
+LOC-00186,U-Bahn Fahren,Griesheim,50.194393,8.785539,Gewerbegebiet,6,43,False
+LOC-00187,Cloppenburg,Nied,50.039911,8.789993,Straße,9,40,False
+LOC-00188,Mies Weller AG Parkplatz,Kalbach-Riedberg,50.060837,8.771812,Parkplatz,16,11,True
+LOC-00189,Kötzting,Nieder-Eschbach,50.029263,8.693411,Gewerbegebiet,45,11,True
+LOC-00190,Römer,Preungesheim,50.058272,8.61461,Öffentlicher Platz,13,27,True
+LOC-00191,Zeil,Ginnheim,50.095741,8.755466,Einkaufszentrum,35,24,False
+LOC-00192,Hauptbahnhof,Sindlingen,50.103401,8.715314,Kreuzung,20,19,False
+LOC-00193,Zeil,Ostend,50.031369,8.750771,Park,11,22,True
+LOC-00194,Garmisch-Partenkirchen,Zeilsheim,50.071878,8.661277,Parkplatz,41,17,True
+LOC-00195,U-Bahn Zusammen,Berkersheim,50.055751,8.782705,Kreuzung,19,18,False
+LOC-00196,Hauptbahnhof,Kalbach-Riedberg,50.130685,8.612923,Einkaufszentrum,32,9,True
+LOC-00197,Belzig,Rödelheim,50.076268,8.665887,Straße,14,18,False
+LOC-00198,Hänelring,Dornbusch,50.17622,8.493182,Einkaufszentrum,11,42,True
+LOC-00199,Römer,Bahnhofsviertel,50.128505,8.483035,Kreuzung,49,22,True
+LOC-00200,Drubin Parkplatz,Fechenheim,50.100829,8.59138,Öffentlicher Platz,24,21,True
+LOC-00201,Sybille-Hörle-Gasse,Nordend-West,50.154848,8.580998,Öffentlicher Platz,27,20,True
+LOC-00202,Hauptbahnhof,Eckenheim,50.193497,8.668899,Park,6,28,False
+LOC-00203,Dan-Koch-Allee / Davidsstr.,Ginnheim,50.15131,8.698202,Gewerbegebiet,36,13,False
+LOC-00204,Zeil,Nordend-Ost,50.025356,8.605417,Park,5,18,True
+LOC-00205,Hauptbahnhof,Schwanheim,50.10358,8.509075,Kreuzung,6,39,False
+LOC-00206,Adlergasse,Höchst,50.085061,8.788032,Gewerbegebiet,4,31,False
+LOC-00207,Eckbauer Parkplatz,Ostend,50.130925,8.535866,Parkplatz,38,40,False
+LOC-00208,Zeil,Nieder-Erlenbach,50.185039,8.609086,Öffentlicher Platz,21,11,False
+LOC-00209,U-Bahn Haben,Ginnheim,50.029316,8.71051,Einkaufszentrum,46,12,True
+LOC-00210,U-Bahn Ziehen,Seckbach,50.11851,8.600828,Öffentlicher Platz,3,42,True
+LOC-00211,Römer,Nieder-Erlenbach,50.191407,8.768565,Parkplatz,10,40,True
+LOC-00212,Hauptbahnhof,Berkersheim,50.169517,8.473422,Öffentlicher Platz,20,38,True
+LOC-00213,Römer,Eschersheim,50.114621,8.781679,Gewerbegebiet,42,32,True
+LOC-00214,Eckart-Austermühle-Straße / Gerolf-Kroker-Gasse,Niederursel,50.17571,8.694458,Gewerbegebiet,3,40,True
+LOC-00215,U-Bahn Erde,Frankfurter Berg,50.026342,8.748157,Straße,36,16,False
+LOC-00216,U-Bahn Papa,Berkersheim,50.054198,8.790245,U-Bahn Station,27,35,False
+LOC-00217,Hauptbahnhof,Bockenheim,50.087506,8.597627,Straße,38,25,True
+LOC-00218,Römer,Altstadt,50.044321,8.685935,Bahnhof,19,31,False
+LOC-00219,Geldern,Bahnhofsviertel,50.158267,8.764024,Kreuzung,45,31,True
+LOC-00220,Römer,Kalbach-Riedberg,50.135701,8.749238,Bahnhof,40,9,False
+LOC-00221,Hauptbahnhof,Bergen-Enkheim,50.193722,8.58929,Kreuzung,18,23,True
+LOC-00222,Zeil,Innenstadt,50.083591,8.74839,U-Bahn Station,12,27,False
+LOC-00223,Römer,Altstadt,50.05465,8.692968,Öffentlicher Platz,3,38,True
+LOC-00224,Hauptbahnhof,Bergen-Enkheim,50.10571,8.518369,Straße,1,43,True
+LOC-00225,Hauptbahnhof,Sachsenhausen-Süd,50.182879,8.756391,Parkplatz,6,40,False
+LOC-00226,Schleich e.G. Parkplatz,Griesheim,50.050543,8.795708,Straße,31,22,False
+LOC-00227,Römer,Gallus,50.066844,8.703876,Bahnhof,43,45,True
+LOC-00228,Emmendingen,Ginnheim,50.037181,8.744064,Gewerbegebiet,41,8,True
+LOC-00229,Güstrow,Gallus,50.147339,8.594197,U-Bahn Station,38,34,True
+LOC-00230,Zeil,Höchst,50.112354,8.491438,Park,19,31,False
+LOC-00231,Römer,Nordend-Ost,50.123967,8.553872,Einkaufszentrum,20,42,False
+LOC-00232,Rudolf-Henschel-Ring,Westend-Nord,50.061244,8.633968,Wohngebiet,40,34,True
+LOC-00233,Römer,Nieder-Erlenbach,50.160803,8.757483,Park,37,37,True
+LOC-00234,Römer,Eschersheim,50.194741,8.61455,Parkplatz,17,38,False
+LOC-00235,Hauptbahnhof,Unterliederbach,50.19107,8.482504,Wohngebiet,28,33,True
+LOC-00236,Keudelring,Altstadt,50.01943,8.747105,Straße,40,28,True
+LOC-00237,Zeil,Nied,50.08253,8.74189,Öffentlicher Platz,32,16,True
+LOC-00238,Dachau,Berkersheim,50.089385,8.725371,Kreuzung,46,13,False
+LOC-00239,Römer,Rödelheim,50.063903,8.574172,Öffentlicher Platz,27,6,True
+LOC-00240,Woldemar-Junken-Ring,Harheim,50.178441,8.751674,Wohngebiet,32,35,False
+LOC-00241,Diepholz,Kalbach-Riedberg,50.189789,8.775503,Park,13,28,False
+LOC-00242,U-Bahn Hinter,Niederursel,50.156155,8.567491,Parkplatz,33,28,True
+LOC-00243,Zeil,Sachsenhausen-Nord,50.078189,8.57327,Straße,28,31,False
+LOC-00244,Zeil,Eschersheim,50.042727,8.5463,U-Bahn Station,10,38,True
+LOC-00245,Freising,Fechenheim,50.152664,8.795594,Gewerbegebiet,25,30,False
+LOC-00246,Trübstr. / Pärtzeltweg,Eschersheim,50.128298,8.704661,Einkaufszentrum,43,45,True
+LOC-00247,Stade,Bonames,50.17527,8.679896,Gewerbegebiet,9,26,False
+LOC-00248,Zeil,Berkersheim,50.181053,8.622484,Wohngebiet,4,7,True
+LOC-00249,Löchelstraße / Girschnerstraße,Hausen,50.045628,8.540157,Park,9,31,False
+LOC-00250,Römer,Eschersheim,50.192687,8.792506,Wohngebiet,22,35,True
+LOC-00251,U-Bahn Stein,Praunheim,50.173089,8.772079,Straße,12,10,True
+LOC-00252,Tassilo-Loos-Platz,Fechenheim,50.123351,8.776515,Bahnhof,14,32,False
+LOC-00253,Hauptbahnhof,Sindlingen,50.097418,8.661589,Park,19,43,True
+LOC-00254,Aynur-Hübel-Straße,Preungesheim,50.134943,8.775309,Straße,14,11,True
+LOC-00255,Vollbrecht Wulf AG Parkplatz,Nordend-Ost,50.101858,8.549406,Gewerbegebiet,48,11,False
+LOC-00256,Döbeln,Nordend-West,50.144598,8.629221,Straße,34,30,False
+LOC-00257,Hauptbahnhof,Zeilsheim,50.166663,8.720985,Gewerbegebiet,16,40,True
+LOC-00258,Schottin AG & Co. OHG Parkplatz,Sindlingen,50.037978,8.536648,Wohngebiet,7,35,False
+LOC-00259,Zeil,Nieder-Eschbach,50.136001,8.626816,Straße,41,17,True
+LOC-00260,Täschegasse / Doreen-Flantz-Ring,Sachsenhausen-Süd,50.129091,8.573952,Gewerbegebiet,29,44,True
+LOC-00261,Wolgast,Nordend-West,50.18089,8.713815,Einkaufszentrum,5,20,False
+LOC-00262,Gnatzplatz / Oswald-Hoffmann-Platz,Nordend-Ost,50.183529,8.484623,Straße,46,33,True
+LOC-00263,Wähner Parkplatz,Schwanheim,50.167427,8.586066,Wohngebiet,17,28,True
+LOC-00264,Bährring / Pechelstr.,Altstadt,50.040802,8.712005,U-Bahn Station,43,18,True
+LOC-00265,Erkelenz,Sindlingen,50.070525,8.673562,Wohngebiet,42,43,False
+LOC-00266,Zeil,Nied,50.03467,8.799035,Gewerbegebiet,29,38,True
+LOC-00267,Augsburg,Höchst,50.106105,8.651885,Parkplatz,22,41,False
+LOC-00268,U-Bahn Nennen,Gallus,50.096008,8.718496,Bahnhof,25,9,False
+LOC-00269,Bad Langensalza,Nied,50.107086,8.504,Kreuzung,4,15,True
+LOC-00270,Hauptbahnhof,Ostend,50.052099,8.647275,Kreuzung,35,44,False
+LOC-00271,Oranienburg,Nieder-Eschbach,50.096496,8.626427,Gewerbegebiet,13,38,False
+LOC-00272,Zeil,Hausen,50.1078,8.647261,Wohngebiet,11,22,False
+LOC-00273,Zeil,Kalbach-Riedberg,50.122377,8.617967,U-Bahn Station,49,27,True
+LOC-00274,Kuhl Weiß GmbH Parkplatz,Schwanheim,50.1713,8.54547,Park,14,10,False
+LOC-00275,Knut-Sorgatz-Platz / Eleni-Faust-Allee,Preungesheim,50.165176,8.513933,Gewerbegebiet,1,22,True
+LOC-00276,Holzapfel Stiftung & Co. KGaA Parkplatz,Bergen-Enkheim,50.193821,8.681862,Kreuzung,46,25,True
+LOC-00277,Hauptbahnhof,Eckenheim,50.137062,8.541474,Kreuzung,44,15,False
+LOC-00278,Björn-Hartmann-Straße / Langegasse,Gallus,50.140432,8.656891,Straße,33,43,True
+LOC-00279,Karen-Fritsch-Weg / Gudestr.,Ostend,50.149553,8.675772,U-Bahn Station,39,37,False
+LOC-00280,U-Bahn Oben,Ginnheim,50.040805,8.558481,Öffentlicher Platz,4,45,False
+LOC-00281,Zeil,Schwanheim,50.099651,8.569332,Kreuzung,9,20,True
+LOC-00282,Eisenberg,Riederwald,50.186438,8.703981,Einkaufszentrum,34,39,False
+LOC-00283,Spieß GmbH & Co. OHG Parkplatz,Niederursel,50.107136,8.670768,Öffentlicher Platz,32,13,False
+LOC-00284,U-Bahn Selbst,Unterliederbach,50.139831,8.787427,Park,22,13,True
+LOC-00285,Zeil,Hausen,50.146713,8.592431,Park,7,6,False
+LOC-00286,Zeil,Westend-Nord,50.049345,8.74184,Öffentlicher Platz,41,5,False
+LOC-00287,Römer,Rödelheim,50.040332,8.63518,U-Bahn Station,14,7,False
+LOC-00288,Textorallee / Reinhardtstraße,Sossenheim,50.095954,8.514602,Park,7,29,True
+LOC-00289,Sebnitz,Sossenheim,50.067576,8.756405,Bahnhof,33,19,False
+LOC-00290,U-Bahn Ihr,Ostend,50.067201,8.542674,Parkplatz,13,21,False
+LOC-00291,Hechingen,Sossenheim,50.128917,8.527052,Öffentlicher Platz,29,8,True
+LOC-00292,Striebitzstr. / Lachmannring,Westend-Süd,50.038689,8.791701,Kreuzung,4,19,True
+LOC-00293,Mielcarekstr. / Haeringstraße,Nordend-West,50.131595,8.542557,Parkplatz,38,33,False
+LOC-00294,Römer,Bockenheim,50.131231,8.745546,Park,41,32,False
+LOC-00295,Hauptbahnhof,Sachsenhausen-Nord,50.181413,8.696722,Wohngebiet,12,17,False
+LOC-00296,U-Bahn Eis,Nordend-West,50.093411,8.54382,Öffentlicher Platz,3,32,False
+LOC-00297,U-Bahn Monat,Schwanheim,50.102112,8.51853,Wohngebiet,27,40,False
+LOC-00298,U-Bahn Schlafen,Harheim,50.172903,8.744661,Öffentlicher Platz,49,32,False
+LOC-00299,Hauptbahnhof,Kalbach-Riedberg,50.165274,8.58883,Parkplatz,29,20,False
+LOC-00300,Alma-Wesack-Straße / Georgia-Drubin-Weg,Höchst,50.061529,8.743719,Einkaufszentrum,7,22,False
